@@ -1,3 +1,3 @@
 #work in progress - example for nightfall
 mydb="postgresql://logger_service:U34Fx43343g!b22w@cloud.google.com:5432/capture"
-myPWD="myPassTxt1234!"
+password="myPassTxt1234!"
